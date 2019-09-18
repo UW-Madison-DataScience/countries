@@ -1,0 +1,2 @@
+Population: 6000000
+Capitol: Rome
