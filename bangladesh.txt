@@ -1,0 +1,2 @@
+Country: Bangladesh
+Capital: Dhaka
